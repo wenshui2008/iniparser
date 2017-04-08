@@ -69,6 +69,8 @@ Only copy  the above two files to your preject directory,add to project.
 And additionally a test file:
 
 * main.c
-Simply compile and run. build.sh is a linux build script.
+
+Simply compile and run. There is a visual studio 2010 project included, a simple linux build script build.sh.
+
 
 
