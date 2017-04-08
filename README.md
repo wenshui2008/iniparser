@@ -3,7 +3,7 @@ iniparser is a simple, small, efficient, C INI configuration file parser that ca
 
 # Examples
 
-#### Load and parse an XML file.
+#### Load and parse an INI file.
 
         ini = IniFile_Open("test.ini",NULL);
         
